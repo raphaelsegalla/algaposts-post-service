@@ -26,5 +26,6 @@ public class Post {
     private Long wordCount;
     private BigDecimal calculatedValue;
     private OffsetDateTime registeredAt;
+    private OffsetDateTime updatedAt;
 
 }
